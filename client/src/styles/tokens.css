@@ -1,0 +1,20 @@
+:root {
+  font-family: 'DM Sans', sans-serif;
+  color: #f5f3ed;
+  background: #0b0d12;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  --bg: #0b0d12;
+  --surface: #131722;
+  --surface-2: #1a2030;
+  --text: #f5f3ed;
+  --muted: #9ca7b8;
+  --dim: #687284;
+  --gold: #c8a45d;
+  --gold-bright: #e0be7b;
+  --red: #d9534f;
+  --green: #4caf86;
+  --border: #2a3242;
+  --serif: 'Playfair Display', Georgia, serif;
+  --mono: 'DM Mono', monospace;
+}
